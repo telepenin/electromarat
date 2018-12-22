@@ -1,0 +1,23 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: cibuilds/hugo:latest
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - add_ssh_keys: # add SSH key with write access
+          fingerprints:
+            - "3b:f7:12:bb:65:54:66:08:07:aa:78:79:a0:aa:d4:53"
+      - run:
+          name: Publish update to GitHub
+          command: bash ./deploy.sh
+
+workflows:
+  version: 2
+  build-deploy:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only: master
