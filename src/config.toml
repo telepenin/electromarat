@@ -1,6 +1,6 @@
 baseurl = ""
 title = "Портфолио"
-theme = "hugo-creative-portfolio-theme"
+theme = "hugo-portfolio-theme"
 languageCode = "ru"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
