@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "/"
 title = "Портфолио"
 theme = "hugo-portfolio-theme"
 languageCode = "ru"
