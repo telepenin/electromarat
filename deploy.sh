@@ -23,6 +23,7 @@ git push -f git@github.com:telepenin/electromarat.git master:gh-pages
 # push onto separate repo
 echo 'dev.elektromarat.ru' > CNAME
 git commit -am 'deploy [skip ci]'
+git remote set origin git@github.com:telepenin/elektromarat.git
 git push -f git@github.com:telepenin/elektromarat.git master:gh-pages
 
 cd -
