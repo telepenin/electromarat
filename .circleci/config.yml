@@ -9,6 +9,7 @@ jobs:
       - add_ssh_keys: # add SSH key with write access
           fingerprints:
             - "3b:f7:12:bb:65:54:66:08:07:aa:78:79:a0:aa:d4:53"
+            - "f5:e2:6f:e2:d1:92:40:20:c8:66:19:4e:76:f5:d5:d2"
       - run:
           name: Publish update to GitHub
           command: bash ./deploy.sh

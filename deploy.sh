@@ -18,8 +18,11 @@ git config --global user.name "circle-ci"
 git init
 git add -A
 git commit -m 'deploy [skip ci]'
-
 git push -f git@github.com:telepenin/electromarat.git master:gh-pages
 
+# push onto separate repo
+echo 'dev.elektromarat.ru' > CNAME
+git commit -m 'deploy [skip ci]'
+git push -f git@github.com:telepenin/elektromarat.git master:gh-pages
 
 cd -
