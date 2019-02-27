@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Портфолио</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolios on Портфолио</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3-я кв, новостройка</title>
+      <link>/portfolio/tesevskaya/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/tesevskaya/</guid>
+      <description>&lt;p&gt;Усиление существующей электропроводки в новой трехкомнатной квартире&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Тэцэвская 4б&lt;/li&gt;
+&lt;li&gt;80 кв. м.&lt;/li&gt;
+&lt;li&gt;Ноябрь 2018&lt;/li&gt;
+&lt;li&gt;Электромонтаж, слаботочка&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>1-я кв, ЖК Казан СУ</title>
+      <link>/portfolio/kazan-su/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/kazan-su/</guid>
+      <description>&lt;p&gt;Электромонтаж проводки в новой квартире:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Комсомольская 1&lt;/li&gt;
+&lt;li&gt;50 кв. м.&lt;/li&gt;
+&lt;li&gt;Октябрь 2018&lt;/li&gt;
+&lt;li&gt;Электромонтаж, слаботочка, видеонаблюдение&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2-я кв, сталинка</title>
+      <link>/portfolio/dekabristov/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/dekabristov/</guid>
+      <description>&lt;p&gt;Полная замена электропроводки в двухкомнатной квартире (сталинка).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Декабристов 158&lt;/li&gt;
+&lt;li&gt;62 кв. м.&lt;/li&gt;
+&lt;li&gt;Октябрь 2015&lt;/li&gt;
+&lt;li&gt;Электромонтаж, слаботочка, видеонаблюдение, теплые полы&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>3-я кв, Баки Урманче 5</title>
+      <link>/portfolio/baki_urmanche_5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/baki_urmanche_5/</guid>
+      <description>&lt;p&gt;Усиление существующей электропроводки в новой трехкомнатной квартире&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2-я кв, Ибрагимова 37</title>
+      <link>/portfolio/ibragimova_37/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/ibragimova_37/</guid>
+      <description>&lt;p&gt;Полная замена электропроводки в двухкомнатной квартире (хрущевка) с равномерным распределением нагрузки&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
