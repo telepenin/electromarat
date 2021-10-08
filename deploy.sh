@@ -10,7 +10,7 @@ HUGO_ENV=production hugo -v -d public -s src
 cd src/public
 
 # if you are deploying to a custom domain
-echo 'dev.electromarat.ru' > CNAME
+# echo 'dev.electromarat.ru' > CNAME
 
 git config --global user.email "telepenin.nikolay@gmail.com"
 git config --global user.name "circle-ci"
